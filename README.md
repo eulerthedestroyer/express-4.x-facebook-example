@@ -6,7 +6,7 @@ this example as a starting point for your own web applications.
 
 To install this example on your computer, clone the repository and install
 dependencies.
-
+[![Run on Repl.it](https://repl.it/badge/github/passport/express-4.x-facebook-example)](https://repl.it/github/passport/express-4.x-facebook-example)
 ```bash
 $ git clone git@github.com:passport/express-4.x-facebook-example.git
 $ cd express-4.x-facebook-example
